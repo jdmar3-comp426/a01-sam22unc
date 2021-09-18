@@ -1,5 +1,5 @@
 body {
-    background-color: #99badd;
+    background-color: #5e4357;
     color: black;
     font-family: 'Times New Roman', 'Times New Roman', Times, serif;
     font-size: 100%;
@@ -23,4 +23,12 @@ img{
 }
 img:hover {
     width: 100%;
+}
+
+li>a{
+    font-family: cursive;
+}
+
+.header{
+    font-family: Brush Script MT, Brush Script Std, cursive;
 }
