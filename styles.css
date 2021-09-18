@@ -17,11 +17,11 @@ div.content {
     justify-content: center;
 }
 
-img{
+#title{
     width: 500px;
     height: 500px;
 }
-img:hover {
+#title:hover {
     width: 100%;
 }
 
