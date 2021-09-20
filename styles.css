@@ -36,3 +36,7 @@ li>a{
 div>h4 {
     color: white;
 }
+
+ol>li {
+    color: rgb(230, 185, 207);
+}
